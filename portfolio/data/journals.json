@@ -1,0 +1,106 @@
+{
+  "site": {
+    "title": "Indian Farmer Journal Portfolio",
+    "tagline": "A daily record of research notes, field observations and published articles from the Indian Farmer open access journal.",
+    "author": "Editorial Team",
+    "issn": "2394-1227"
+  },
+  "entries": [
+    {
+      "id": "2026-09-21-soil-moisture-sensors",
+      "date": "2026-09-21",
+      "title": "Low-cost Soil Moisture Sensors for Smallholder Irrigation Scheduling",
+      "category": "Agricultural Sciences",
+      "tags": ["irrigation", "sensors", "water management"],
+      "summary": "Field trial results from Maharashtra comparing capacitive soil moisture sensors against gravimetric measurements across three cropping seasons.",
+      "content": "Over three consecutive seasons we deployed 48 capacitive soil moisture probes across smallholder plots growing cotton, soybean and pigeon pea.\n\nSensor readings tracked gravimetric measurements with an R² of 0.91 after a simple two-point field calibration. Farmers using sensor-based scheduling reduced irrigation water use by 22% with no yield penalty.\n\nThe complete dataset and calibration procedure will be published in the October issue.",
+      "readingTime": 4,
+      "featured": true,
+      "pdf": ""
+    },
+    {
+      "id": "2026-09-20-goat-mastitis",
+      "date": "2026-09-20",
+      "title": "Sub-clinical Mastitis Prevalence in Osmanabadi Goats",
+      "category": "Veterinary Sciences",
+      "tags": ["goats", "mastitis", "animal health"],
+      "summary": "A cross-sectional survey of 312 lactating does reveals a 27% prevalence of sub-clinical mastitis detected via California Mastitis Test.",
+      "content": "Sub-clinical mastitis is a silent drain on smallholder goat productivity. We screened 312 lactating Osmanabadi does across 14 villages.\n\nPrevalence at the animal level was 27.2%, while quarter-level prevalence reached 18.9%. Staphylococcus spp. dominated the isolates. Poor udder hygiene and hand-milking on soil floors were significant risk factors.\n\nRecommendations include pre-milking teat dipping and regular CMT screening at the village level.",
+      "readingTime": 5,
+      "featured": false,
+      "pdf": ""
+    },
+    {
+      "id": "2026-09-19-mango-hopper",
+      "date": "2026-09-19",
+      "title": "Integrated Management of Mango Hopper in Konkan Orchards",
+      "category": "Horticulture",
+      "tags": ["mango", "pest management", "IPM"],
+      "summary": "Combining canopy pruning, neem-based sprays and timed insecticide applications reduced hopper populations by 68% compared to farmer practice.",
+      "content": "Mango hoppers (Idioscopus spp.) remain the most damaging pest during flowering in the Konkan belt.\n\nOur IPM module—light canopy pruning after harvest, two neem oil sprays at panicle emergence and a single need-based application of a systemic insecticide—reduced hopper counts by 68% and increased fruit set by 31% relative to the calendar spray schedule most growers follow.\n\nInput costs fell by roughly ₹4,200 per hectare.",
+      "readingTime": 3,
+      "featured": false,
+      "pdf": ""
+    },
+    {
+      "id": "2026-09-18-biofloc-tilapia",
+      "date": "2026-09-18",
+      "title": "Biofloc Tilapia Culture in Inland Saline Water",
+      "category": "Fisheries",
+      "tags": ["aquaculture", "biofloc", "tilapia"],
+      "summary": "Trials in Haryana demonstrate viable tilapia growth in inland saline groundwater using low-exchange biofloc systems.",
+      "content": "Inland saline groundwater is a growing problem in north-western India, but it can be turned into an aquaculture asset.\n\nWe stocked GIFT tilapia at 100 fish/m³ in 10 m³ biofloc tanks using water at 8–12 ppt salinity. Over 150 days the fish reached an average of 410 g with an FCR of 1.42. Water exchange was under 5% per week.\n\nEconomic analysis suggests a payback period of about 18 months for a four-tank unit.",
+      "readingTime": 6,
+      "featured": true,
+      "pdf": ""
+    },
+    {
+      "id": "2026-09-17-millet-value-chain",
+      "date": "2026-09-17",
+      "title": "Strengthening the Finger Millet Value Chain in Karnataka",
+      "category": "Agricultural Economics",
+      "tags": ["millets", "value chain", "FPO"],
+      "summary": "Farmer Producer Organisations that added primary processing captured 35% higher farm-gate prices for finger millet.",
+      "content": "Finger millet (ragi) has seen renewed consumer interest, but farm-gate prices lag behind retail growth.\n\nWe compared 12 FPOs in Tumakuru and Chikkaballapur districts. Those that invested in cleaning, grading and dehulling equipment captured an average of 35% higher prices, and members reported more stable demand from urban buyers.\n\nAccess to working capital remains the main constraint.",
+      "readingTime": 4,
+      "featured": false,
+      "pdf": ""
+    },
+    {
+      "id": "2026-09-16-drone-spraying",
+      "date": "2026-09-16",
+      "title": "Drone-based Pesticide Application in Paddy: Drift and Efficacy",
+      "category": "Agricultural Engineering",
+      "tags": ["drones", "paddy", "precision agriculture"],
+      "summary": "Drone spraying achieved comparable pest control to knapsack sprayers while using 90% less water and 40% less labour time.",
+      "content": "Agricultural drones are rapidly gaining regulatory approval in India. We evaluated a 10-litre hexacopter across 24 paddy plots in Andhra Pradesh.\n\nDroplet deposition on the canopy was adequate at a flight height of 2 m and speed of 4 m/s. Off-target drift was measurable up to 6 m downwind under moderate breeze, highlighting the importance of buffer zones.\n\nEfficacy against brown plant hopper matched knapsack spraying.",
+      "readingTime": 5,
+      "featured": false,
+      "pdf": ""
+    },
+    {
+      "id": "2026-09-15-vermicompost",
+      "date": "2026-09-15",
+      "title": "Vermicompost Quality from Mixed Crop Residues",
+      "category": "Soil Science",
+      "tags": ["organic farming", "vermicompost", "soil health"],
+      "summary": "Mixing sugarcane trash with legume residues produced vermicompost with a C:N ratio of 14, ideal for vegetable nurseries.",
+      "content": "Crop residue burning remains a persistent issue. Vermicomposting offers a productive alternative.\n\nWe tested five residue mixtures with Eisenia fetida over 75 days. A 60:40 blend of sugarcane trash and pigeon pea haulm gave the best combination of nutrient content and maturity, reaching a C:N ratio of 14 with 1.8% total nitrogen.\n\nNursery trials with tomato seedlings showed 23% greater seedling vigour.",
+      "readingTime": 3,
+      "featured": false,
+      "pdf": ""
+    },
+    {
+      "id": "2026-09-14-dairy-heat-stress",
+      "date": "2026-09-14",
+      "title": "Heat Stress Mitigation in Crossbred Dairy Cattle",
+      "category": "Veterinary Sciences",
+      "tags": ["dairy", "heat stress", "climate"],
+      "summary": "Simple shed modifications and evening feeding schedules restored 11% of milk yield lost during peak summer.",
+      "content": "Temperature-humidity index values above 78 are now common for extended periods across central India.\n\nOn 36 farms we introduced roof insulation using agri-net, fogging during afternoon hours and a shift of 60% of the concentrate feed to evening hours. Milk yield recovered by 11% relative to control farms, and conception rates improved in the following season.\n\nThe interventions cost under ₹15,000 per shed.",
+      "readingTime": 4,
+      "featured": false,
+      "pdf": ""
+    }
+  ]
+}

@@ -25,6 +25,7 @@ $routes = [
     '/contact' => 'contact.php',
     '/instructions' => 'instructions.php',
     '/download' => 'download.php',
+    '/portfolio' => 'portfolio/index.html',
 ];
 
 // Check for exact match
@@ -46,7 +47,7 @@ $filePath = __DIR__ . $path;
 if (is_file($filePath)) {
     // Don't serve PHP files directly for security
     $ext = pathinfo($filePath, PATHINFO_EXTENSION);
-    if (in_array($ext, ['php', 'env', 'config'])) {
+    if (in_array($ext, ['php', 'env', 'config']) || strpos(realpath($filePath), realpath(__DIR__)) !== 0) {
         http_response_code(403);
         exit('Access denied.');
     }
@@ -55,6 +56,8 @@ if (is_file($filePath)) {
     $mimeTypes = [
         'css' => 'text/css',
         'js' => 'application/javascript',
+        'html' => 'text/html; charset=utf-8',
+        'json' => 'application/json; charset=utf-8',
         'jpg' => 'image/jpeg',
         'jpeg' => 'image/jpeg',
         'png' => 'image/png',
